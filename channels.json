@@ -22,7 +22,13 @@
   {
     "name": "mcot30",
     "stream": "https://p0.cdn.vet/live/ch9/i/ch9i.m3u8?sid=b5yNDM2ODlmZDQ4NzM4NjZkNmRkNQODE3MzdhZjNiMjcxOWYw",
+    "logo": "https://api.cantstopwontstop.online/images/png/hd-mcot.png"
+    },
+  {
+    "name": "plex",
+    "stream": "https://p1.cdn.vet/live/ch11/i/ch11i.m3u8?sid=b5yNmRjMjkzZDljNzcxYjdmOGU4NwN2EwMzFmNjQzYzkyYzY1",
     "logo": "https://api.cantstopwontstop.online/images/png/hd-ch5.png"
   }
 ]
+
 
