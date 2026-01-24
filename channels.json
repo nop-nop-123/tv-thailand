@@ -8,5 +8,21 @@
     "name": "one31",
     "stream": "https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/bdfd964c7fa447a8811f2a3c4ed3ef1c/playlist_ssaiM.m3u8",
     "logo": "https://api.cantstopwontstop.online/images/png/hd-gmmone.png"
+    },
+  {
+    "name": "ch3",
+    "stream": "https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yN2JjNmZiOGM5YTM1MzU3MjE2MwMzJmMzdmMzZjYWQ0N2Qx",
+    "logo": "https://api.cantstopwontstop.online/images/png/hd-ch3.png"
+     },
+  {
+    "name": "ch5",
+    "stream": "https://p1.cdn.vet/live/ch5/i/ch5i.m3u8?sid=b5yMDI3YjBkNGYxMWM5Y2Q4MTFlOANmYwYzNjNDQyNzZlZjVh",
+    "logo": "https://api.cantstopwontstop.online/images/png/hd-ch5.png"
+     },
+  {
+    "name": "mcot30",
+    "stream": "https://p0.cdn.vet/live/ch9/i/ch9i.m3u8?sid=b5yNDM2ODlmZDQ4NzM4NjZkNmRkNQODE3MzdhZjNiMjcxOWYw",
+    "logo": "https://api.cantstopwontstop.online/images/png/hd-ch5.png"
   }
 ]
+
