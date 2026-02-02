@@ -12,7 +12,12 @@
     },
   {
     "name": "ch3",
-    "stream": "https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yN2JjNmZiOGM5YTM1MzU3MjE2MwMzJmMzdmMzZjYWQ0N2Qx",
+    "stream": "https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yMTBhNWRlZmYwNTcwZTRmMDE3ZgN2Q3ZmY0MjIzODRkZWIw",
+    "logo": "https://api.cantstopwontstop.online/images/png/hd-ch3.png"
+     },
+  {
+    "name": "ch3(Backup)",
+    "stream": "https://p0.cdn.vet/live/ch3/i/ch3i.m3u8?sid=b5yNjE1NjRlZTFmZWZhZWQxYmViOQNWY2YmZiNTlhMzQ0ZGNh",
     "logo": "https://api.cantstopwontstop.online/images/png/hd-ch3.png"
      },
   {
@@ -52,6 +57,7 @@
     
   }
 ]
+
 
 
 
